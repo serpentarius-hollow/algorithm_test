@@ -46,10 +46,11 @@ class StringSequence {
       if (j == 999) {
         joinedString = foo() + padThreeDigits(j);
         temp.add(joinedString);
+        if (lastIndex != -1) {
+          stringId[lastIndex] = stringId[lastIndex] + 1;
+          lastIndex = lastIndex - 1;
+        }
         j = 0;
-
-        stringId[lastIndex] = stringId[lastIndex] + 1;
-        lastIndex = lastIndex - 1;
       } else {
         joinedString = foo() + padThreeDigits(j);
         temp.add(joinedString);
