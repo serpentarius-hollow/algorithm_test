@@ -9,9 +9,8 @@ Requested by Garuda Infinity.
 4. Output a string sequence of AAAAAAAAAA000...AAAAAAAAAA999 to ZZZZZZZZZZ000...ZZZZZZZZZZ999
 
 ## Screenshots
-![Program #1](https://user-images.githubusercontent.com/58662827/124716517-602d4000-df2e-11eb-986c-3a86e5a3ebf5.jpg)
-![Program #2](https://user-images.githubusercontent.com/58662827/124716606-7c30e180-df2e-11eb-8bb5-a2b2654ce84a.jpg)
-![Program #3](https://user-images.githubusercontent.com/58662827/124716850-bbf7c900-df2e-11eb-9010-dec545d3cb2e.jpg)
-![Program #4-1](https://user-images.githubusercontent.com/58662827/124716901-cade7b80-df2e-11eb-99d2-5db73ce5b81c.jpg)
-![Program #4-2](https://user-images.githubusercontent.com/58662827/124717015-ecd7fe00-df2e-11eb-944d-9033b33f1a66.jpg)
-
+<img src="https://user-images.githubusercontent.com/58662827/124716517-602d4000-df2e-11eb-986c-3a86e5a3ebf5.jpg" width="432" height="960">
+<img src="https://user-images.githubusercontent.com/58662827/124716606-7c30e180-df2e-11eb-8bb5-a2b2654ce84a.jpg" width="432" height="960">
+<img src="https://user-images.githubusercontent.com/58662827/124716850-bbf7c900-df2e-11eb-9010-dec545d3cb2e.jpg" width="432" height="960">
+<img src="https://user-images.githubusercontent.com/58662827/124716901-cade7b80-df2e-11eb-99d2-5db73ce5b81c.jpg" width="432" height="960">
+<img src="https://user-images.githubusercontent.com/58662827/124717015-ecd7fe00-df2e-11eb-944d-9033b33f1a66.jpg" width="432" height="960">
